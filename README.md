@@ -41,6 +41,8 @@
 
 <br>
 
+Would definitely love to add more commands in future :)
+
 - pwd.c
     - Prints the absolute path of current working directory
     - If more arguments are given, then also pwd is printed (as in bash shell)
