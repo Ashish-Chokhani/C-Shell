@@ -47,4 +47,7 @@ Would definitely love to add more commands in future :)
     - Prints the absolute path of current working directory
     - If more arguments are given, then also pwd is printed (as in bash shell)
 
+### Contributing
+- Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute.
+
 
